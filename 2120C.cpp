@@ -1,3 +1,5 @@
+// Codeforces Round 1033 (Div. 2) and CodeNite 2025 C
+// https://codeforces.com/contest/2120/problem/C
 #include <bits/stdc++.h>
 using namespace std;
 
