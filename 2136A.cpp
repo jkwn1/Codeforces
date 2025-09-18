@@ -1,3 +1,5 @@
+// Codeforces Round 1046 (Div. 2) A
+// https://codeforces.com/contest/2136/problem/A
 #include <bits/stdc++.h>
 using namespace std;
 
