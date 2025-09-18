@@ -1,3 +1,5 @@
+// Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2) A
+// https://codeforces.com/contest/2122/problem/A
 #include <bits/stdc++.h>
 using namespace std;
 
