@@ -1,3 +1,5 @@
+// Educational Codeforces Round 180 (Rated for Div. 2) B
+// https://codeforces.com/contest/2112/problem/B
 #include <bits/stdc++.h>
 using namespace std;
 
