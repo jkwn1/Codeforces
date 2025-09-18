@@ -1,3 +1,5 @@
+// Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2) A
+// https://codeforces.com/contest/2127/problem/A
 #include <bits/stdc++.h>
 using namespace std;
 
